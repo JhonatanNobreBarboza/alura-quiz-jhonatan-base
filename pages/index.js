@@ -1,10 +1,11 @@
-import styled from 'styled-components'
-import db from '../db.json';
-import Widget from '../src/components/Widget'
-import QuizLogo from '../src/components/QuizLogo'
-import QuizBackground from '../src/components/QuizBackground'
-import Footer from '../src/components/Footer'
-import GitHubCorner from '../src/components/GitHubCorner'
+import styled from "styled-components";
+import db from "../db.json";
+import Widget from "../src/components/Widget";
+import QuizLogo from "../src/components/QuizLogo";
+import QuizBackground from "../src/components/QuizBackground";
+import Footer from "../src/components/Footer";
+import GitHubCorner from "../src/components/GitHubCorner";
+import Head from "next/head";
 
 // const BackgroundImage = styled.div`
 //   background-image: url(${db.bg});
@@ -28,6 +29,24 @@ export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg}>
       <QuizContainer>
+        <Head>
+          <meta
+            name="title"
+            property="og:title"
+            content="ímersão Alura Quiz - Jhonatan Nobre"
+          ></meta>
+          <meta
+            name="image"
+            property="og:image"
+            content="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base/blob/master/fundoImersao.png?raw=true"
+          ></meta>
+          <meta
+            name="description"
+            property="og:description"
+            content="Projeto a partir da semana de Imersão React Next.JS - Alura"
+          ></meta>
+          <meta name="author" content="Jhonatan Nobre"></meta>
+        </Head>
         <QuizLogo />
         <Widget>
           <Widget.Header>
