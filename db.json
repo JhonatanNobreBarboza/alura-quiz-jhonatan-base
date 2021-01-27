@@ -1,7 +1,7 @@
 {
-    "bg": "https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base/blob/master/fundoImersao.png?raw=true",
-    "title": "Quiz Sobre React do Jhonatan Nobre",
-    "description": "Teste os seus conhecimentos sobre React e Next.js com um toque de Imersão Alura",
+    "bg": "./",
+    "title": "Quiz Sobre Biologia",
+    "description": "Teste os seus conhecimentos sobre Biologia",
     "questions": [
       {
         "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
