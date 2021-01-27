@@ -1,5 +1,5 @@
 {
-    "bg": "./",
+    "bg": "https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base/blob/master/fundoImersao.jpg?raw=true",
     "title": "Quiz Sobre Biologia",
     "description": "Teste os seus conhecimentos sobre Biologia",
     "questions": [
