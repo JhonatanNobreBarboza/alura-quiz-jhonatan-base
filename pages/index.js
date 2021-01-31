@@ -35,7 +35,7 @@ export default function Home() {
           <meta
             name="image"
             property="og:image"
-            content="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base/blob/master/fundoImersao.png?raw=true"
+            content="https://github.com/JhonatanNobreBarboza/alura-quiz-jhonatan-base/blob/master/fundoImersao.PNG?raw=true"
           />
           <meta
             name="description"
