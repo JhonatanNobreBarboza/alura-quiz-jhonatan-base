@@ -6,13 +6,13 @@
       {
         "image": "https://1.bp.blogspot.com/-qUX4siN2RU4/Ws5CzatEUDI/AAAAAAAAAZQ/jAJyTQbaWbA5BrE2HSK4AkyNdQJjKZmwQCLcBGAs/s1600/f095a24dd58af8f843c5b2503b8b632d.gif",
         "title": "1)Células formam tecidos, que formam órgãos, que formam sistemas que formam um organismo?",
-        "description": "Observe a seguir os níveis de organização de um ser vivo e marque a alternativa que contém os termos que substituem adequadamente os números 1, 2 e 3.",
+        "description": "Observe a seguir os níveis de organização de um ser vivo e marque a alternativa que segue a ordem descrita acima.",
         "answer": 2,
         "alternatives": [
-          "1- tecido, 2- organismo, 3- corpo. ",
-          "1- órgão, 2- tecido, 3- organismo. ",
-          "1- tecido, 2- órgão, 3- organismo. ",
-          "1- organela, 2- tecido, 3- corpo. "
+          "1- tecido, 2- organismo, 3- corpo, 04- organela. ",
+          "1- órgão, 2- tecido, 3- organismo, 04- celula. ",
+          "1- tecido, 2- órgão, 3- sistemas, 04- organismos. ",
+          "1- organela, 2- tecido, 3- corpo, 04- orgão. "
         ]
       },
       {
@@ -101,7 +101,8 @@
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-marvel.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
